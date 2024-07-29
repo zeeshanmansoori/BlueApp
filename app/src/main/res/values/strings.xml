@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BlueApp</string>
+    <string name="category_tile_text">Category : %1$s</string>
+    <string name="total_items_text">Total Items : %1$s</string>
+    <string name="top_3_character_occurrences_text">Top 3 Character Occurrences: \n %1$s</string>
+    <string name="search_hint_txt">Search</string>
+    <string name="empty_list_txt">Empty List</string>
+    <string name="stastistics_txt">Statistics</string>
+</resources>
