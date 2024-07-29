@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="RoundedShape8dp">
+        <item name="cornerSize">8dp</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+    <style name="RoundedShape15dp">
+        <item name="cornerSize">@dimen/carousel_rounded_size</item>
+        <item name="cornerFamily">rounded</item>
+    </style>
+</resources>

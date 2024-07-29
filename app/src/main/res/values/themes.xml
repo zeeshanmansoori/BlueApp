@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.BlueApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#FF6650a4</item>
+        <item name="colorSecondary">#FF625b71</item>
+        <item name="colorTertiary">#FF7D5260</item>
+    </style>
+</resources>
